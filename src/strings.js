@@ -1,0 +1,8 @@
+export const CHANGE_ROUTE = 'CHANGE_ROUTE';
+export const SIGN_IN_LOADING = 'SIGN_IN_LOADING';
+export const SIGN_UP_LOADING = 'SIGN_UP_LOADING';
+export const SET_USER_ID = 'SET_USER_ID';
+export const USER_DATA = 'USER_DATA';
+export const GET_CHILDREN_LIST = 'GET_CHILDREN_LIST';
+export const SET_UPLOADING_PROGRESS = 'SET_UPLOADING_PROGRESS';
+export const SELECT_CHILD = 'SELECT_CHILD';
